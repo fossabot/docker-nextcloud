@@ -1,4 +1,6 @@
 ## wonderfall/nextcloud
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fdocker-nextcloud.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fdocker-nextcloud?ref=badge_shield)
+
 
 
 [![](https://images.microbadger.com/badges/version/wonderfall/nextcloud.svg)](http://microbadger.com/images/wonderfall/nextcloud "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/wonderfall/nextcloud.svg)](http://microbadger.com/images/wonderfall/nextcloud "Get your own image badge on microbadger.com")
@@ -187,3 +189,7 @@ Redis can be used for distributed and file locking cache, alongside with APCu (l
 
 ### Tip : how to use occ command
 There is a script for that, so you shouldn't bother to log into the container, set the right permissions, and so on. Just use `docker exec -ti nexcloud occ command`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fdocker-nextcloud.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fdocker-nextcloud?ref=badge_large)
